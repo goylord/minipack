@@ -1,0 +1,26 @@
+{
+  "name": "minipack",
+  "version": "1.0.0",
+  "description": "web pack util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goylord/minipack.git"
+  },
+  "author": "rengs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goylord/minipack/issues"
+  },
+  "homepage": "https://github.com/goylord/minipack#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.17.12"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
